@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","This test will provide an error code of 400 when user tries to access an invalid resource","SUCCESS","2019-01-14T14:16:36.764+01:00[Europe/Belgrade]","0.0","3.62"
